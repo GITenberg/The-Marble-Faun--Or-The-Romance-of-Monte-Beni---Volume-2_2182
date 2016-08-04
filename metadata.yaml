@@ -1,0 +1,44 @@
+_repo: The-Marble-Faun--Or-The-Romance-of-Monte-Beni---Volume-2_2182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: "The Marble Faun: Or, The Romance of Monte Beni, also known by the British\
+  \ title Transformation, was the last of the four major romances by Nathaniel Hawthorne,\
+  \ and was published in 1860. The Marble Faun, written on the eve of the American\
+  \ Civil War, is set in a fantastical Italy. The romance mixes elements of a fable,\
+  \ pastoral, gothic novel, and travel guide.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2182'
+  wikidata: Q3222702
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Rome (Italy) -- Fiction'
+- !lcsh 'Americans -- Italy -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Women art students -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- GITenberg
+title: The Marble Faun; Or, The Romance of Monte Beni - Volume 2
+url: http://www.gutenberg.org/ebooks/2182
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Faune_de_marbre
+- https://pt.wikipedia.org/wiki/O_Fauno_de_M%C3%A1rmore
+- https://pl.wikipedia.org/wiki/Marmurowy_faun
+- https://simple.wikipedia.org/wiki/The_Marble_Faun
+- https://en.wikipedia.org/wiki/The_Marble_Faun
+- https://it.wikipedia.org/wiki/Il_fauno_di_marmo_(romanzo)
